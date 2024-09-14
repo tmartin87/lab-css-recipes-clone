@@ -22,3 +22,14 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+.imagen1 {
+
+  width: 900px;
+  height: auto;
+}
+
+.section1 {
+
+  background-image:images\apple-pie.jpg ;
+  -ms-flex-align: center;
+}
